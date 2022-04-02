@@ -5,12 +5,13 @@
 ### ➕ (Planned) Features:
 - Modern and responsive design (similar to the original App)
 - Adblock & Sponsorblock
-- ⚒ Player improvements (e.g faster Speed, Audio Track selection, ...)
-- 📺 4K Support
+- 👎Return Youtube Dislikes
+- ⚒Player improvements (e.g faster Speed, Audio Track selection, ...)
+- 📺4K Support
 - 🎜 Background Playback
-- 🌘 Dark & Light Mode
+- 🌘Dark & Light Mode
 - Mini Player
-- 🔞 Age restricted Videos without verification
+- 🔞Age restricted Videos without verification
 
 🡇 It should be worked in this order
 
