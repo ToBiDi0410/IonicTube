@@ -3,14 +3,14 @@
 ⏰ An upcoming alternative Youtube Client for Android and IOS based on the Ionic Framework together with Vue.JS.
 
 ### ➕ (Planned) Features:
-- Sponsorblock
-- 4K Support
-- Youtube-Like Experience
-- Adblock
-- Player improvements (e.g faster Speed, Audio Track selection, ...)
-- Background Playback
+- Modern and responsive design (similar to the original App)
+- Adblock & Sponsorblock
+- ⚒ Player improvements (e.g faster Speed, Audio Track selection, ...)
+- 📺 4K Support
+- 🎜 Background Playback
+- 🌘 Dark & Light Mode
 - Mini Player
-- Age restricted Videos without verification
+- 🔞 Age restricted Videos without verification
 
 🡇 It should be worked in this order
 
