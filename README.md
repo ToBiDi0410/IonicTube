@@ -1,6 +1,7 @@
 # IonicTube
 
-⏰ An upcoming alternative Youtube Client for Android and IOS based on the Ionic Framework together with Vue.JS.
+⏰An upcoming alternative Youtube Client for Android and IOS based on the Ionic Framework together with Vue.JS.  
+❓Can't wait? Look at the Screenshots in the Screenshots Folder 📁
 
 ### ➕ (Planned) Features:
 - Modern and responsive design (similar to the original App)
